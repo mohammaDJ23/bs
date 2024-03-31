@@ -19,3 +19,6 @@
 [submodule "bs.s-notification"]
 	path = bs.s-notification
 	url = https://github.com/mohammaDJ23/bs.s-notification.git
+[submodule "bs.s-user"]
+	path = bs.s-user
+	url = https://github.com/mohammaDJ23/bs.s-user.git

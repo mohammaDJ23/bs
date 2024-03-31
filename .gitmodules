@@ -10,3 +10,6 @@
 [submodule "bs.c-container"]
 	path = bs.c-container
 	url = https://github.com/mohammaDJ23/bs.c-container.git
+[submodule "bs.s-auth"]
+	path = bs.s-auth
+	url = https://github.com/mohammaDJ23/bs.s-auth.git

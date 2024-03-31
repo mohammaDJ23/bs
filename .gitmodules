@@ -7,3 +7,6 @@
 [submodule "bs.c-chat"]
 	path = bs.c-chat
 	url = https://github.com/mohammaDJ23/bs.c-chat.git
+[submodule "bs.c-container"]
+	path = bs.c-container
+	url = https://github.com/mohammaDJ23/bs.c-container.git

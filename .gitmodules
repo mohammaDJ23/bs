@@ -4,3 +4,6 @@
 [submodule "bs.c-bank"]
 	path = bs.c-bank
 	url = https://github.com/mohammaDJ23/bs.c-bank.git
+[submodule "bs.c-chat"]
+	path = bs.c-chat
+	url = https://github.com/mohammaDJ23/bs.c-chat.git

@@ -1,0 +1,3 @@
+[submodule "bs.c-auth"]
+	path = bs.c-auth
+	url = https://github.com/mohammaDJ23/bs.c-auth.git
